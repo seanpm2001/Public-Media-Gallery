@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📢️🖼️👤️💾️ Public Media Gallery is a specification for an area of ones public profile where images, videos, and audio pieces are displayed. These are specifically media files that represent the person/group. All media in this gallery must be either Copyleft or Public Domain.
