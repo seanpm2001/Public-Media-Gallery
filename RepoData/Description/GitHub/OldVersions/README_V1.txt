@@ -1,0 +1,1 @@
+📢️🖼️👤️💾️ Public Media Gallery is a specification for an area of ones public profile where images, videos, and audio pieces are displayed. These are specifically media files that represent the person/group. All media in this gallery must be either Copyleft or Public Domain.
